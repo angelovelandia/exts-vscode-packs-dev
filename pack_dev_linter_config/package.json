@@ -1,0 +1,34 @@
+{
+  "name": "pack-dev-linter-config",
+  "displayName": "Developer Linter & Prettier Pack",
+  "version": "1.0.0",
+  "publisher": "avcodev",
+  "description": "Keep your code spotless and tidy with Prettier, linters, and all the best clean-up tools 🧼✨!",
+  "author": {
+    "name": "Angelo Velandia <@avcodev>"
+  },
+  "engines": {
+    "vscode": "^1.93.1"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#90E0AA",
+    "theme": "dark"
+  },
+  "extensionPack": [ 
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ],
+  "bugs": {
+    "url": "https://github.com/angelovelandia/exts-vscode-packs-dev/issues",
+    "email": "velandia_angelo@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelovelandia/exts-vscode-packs-dev.git"
+  },
+  "homepage": "https://github.com/angelovelandia/exts-vscode-packs-dev/blob/main/README.md"
+}

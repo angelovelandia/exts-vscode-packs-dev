@@ -1,0 +1,47 @@
+{
+  "name": "pack-dev-web-basics",
+  "displayName": "Developer Web Basics Pack",
+  "version": "2.0.1",
+  "publisher": "avcodev",
+  "description": "Boost your productivity with essential web dev tools that make coding a breeze! 🚀💡",
+  "author": {
+    "name": "Angelo Velandia <@avcodev>"
+  },
+  "engines": {
+    "vscode": "^1.93.1"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#90E0AA",
+    "theme": "dark"
+  },
+  "extensionPack": [ 
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "in4margaret.compareit",
+    "vincaslt.highlight-matching-tag",
+    "ritwickdey.LiveServer",
+    "xabikos.JavaScriptSnippets", 
+    "christian-kohler.path-intellisense",
+    "mikestead.dotenv",
+    "aaron-bond.better-comments",
+    "formulahendry.code-runner",
+    "adpyke.codesnap",
+    "ecmel.vscode-html-css",
+    "ChakrounAnas.turbo-console-log",
+    "kisstkondoros.vscode-gutter-preview"
+  ],
+  "bugs": {
+    "url": "https://github.com/angelovelandia/exts-vscode-packs-dev/issues",
+    "email": "velandia_angelo@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelovelandia/exts-vscode-packs-dev.git"
+  },
+  "homepage": "https://github.com/angelovelandia/exts-vscode-packs-dev/blob/main/README.md"
+}

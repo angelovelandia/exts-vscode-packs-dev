@@ -1,0 +1,34 @@
+{
+  "name": "pack-dev-style-theme",
+  "displayName": "Developer Style Theme Pack",
+  "version": "1.0.0",
+  "publisher": "avcodev",
+  "description": "Transform your VS Code into a magical coding unicorn 🦄✨!",
+  "author": {
+    "name": "Angelo Velandia <@avcodev>"
+  },
+  "engines": {
+    "vscode": "^1.93.1"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#90E0AA",
+    "theme": "dark"
+  },
+  "extensionPack": [ 
+    "ahmadawais.shades-of-purple",
+    "PKief.material-icon-theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/angelovelandia/exts-vscode-packs-dev/issues",
+    "email": "velandia_angelo@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelovelandia/exts-vscode-packs-dev.git"
+  },
+  "homepage": "https://github.com/angelovelandia/exts-vscode-packs-dev/blob/main/README.md"
+}

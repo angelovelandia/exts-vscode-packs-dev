@@ -1,0 +1,35 @@
+{
+  "name": "pack-dev-frameworks",
+  "displayName": "Developer Framework's Pack",
+  "version": "1.0.0",
+  "publisher": "avcodev",
+  "description": "Supercharge your development with tools for React, Vite, Sass, Tailwind, and more ⚡💻🎨!",
+  "author": {
+    "name": "Angelo Velandia <@avcodev>"
+  },
+  "engines": {
+    "vscode": "^1.93.1"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#90E0AA",
+    "theme": "dark"
+  },
+  "extensionPack": [ 
+    "xabikos.ReactSnippets",
+    "bradlc.vscode-tailwindcss",
+    "Syler.sass-indented"
+  ],
+  "bugs": {
+    "url": "https://github.com/angelovelandia/exts-vscode-packs-dev/issues",
+    "email": "velandia_angelo@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelovelandia/exts-vscode-packs-dev.git"
+  },
+  "homepage": "https://github.com/angelovelandia/exts-vscode-packs-dev/blob/main/README.md"
+}
