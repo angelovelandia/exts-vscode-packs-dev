@@ -1,7 +1,7 @@
 {
   "name": "pack-dev-style-theme",
   "displayName": "Developer Style Theme Pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "avcodev",
   "description": "Transform your VS Code into a magical coding unicorn 🦄✨!",
   "author": {
@@ -15,7 +15,7 @@
   ],
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#90E0AA",
+    "color": "#01a2f6",
     "theme": "dark"
   },
   "extensionPack": [ 
